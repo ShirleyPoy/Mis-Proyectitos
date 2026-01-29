@@ -2,13 +2,13 @@
 #include <stdlib.h>
 
 int detectar_sistema() { // Para intentar saber en que sistema está corriendo xd
-    #ifdef _WIN32
-        return 1;
-    #elif __linux__
-        return 2;
-    #else
-        return 3;
-    #endif
+        ifdef _WIN32
+                return 1;
+        #elif __linux__
+                return 2;
+        #else
+                return 3;
+        #endif
 }
 
 void limpiar_pantalla(void) { // Una función para limpiar la stdout
