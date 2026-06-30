@@ -49,9 +49,8 @@ int main(void) { // con void nomas para que sea robusto
                                 "RAM: 32 GB DDR3\n"
                                 "Hard Drives:\n\n"
                                 "\tSSD SATA 477 GB\n"
-                                "\t\tOS: Windows 11 Pro\n\n"
-                                "\tHDD 500GB\n"
-                                "\t\tOS: Linux Mint Cinnamon\n");
+                                "\t\tOS: Arch Linux\n\n"
+                                "\tHDD 500GB\n";
                                 break;
                         case '2':
                                 printf("\nCelular: Samsung Galaxy A25 5G\n" // Yo tengo un A26 xd
