@@ -50,7 +50,7 @@ int main(void) { // con void nomas para que sea robusto
                                 "Hard Drives:\n\n"
                                 "\tSSD SATA 477 GB\n"
                                 "\t\tOS: Arch Linux\n\n"
-                                "\tHDD 500GB\n";
+                                "\tHDD 500GB\n");
                                 break;
                         case '2':
                                 printf("\nCelular: Samsung Galaxy A25 5G\n" // Yo tengo un A26 xd
