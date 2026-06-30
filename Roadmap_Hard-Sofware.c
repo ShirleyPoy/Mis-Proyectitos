@@ -22,9 +22,8 @@ int main() {
                    "RAM: 32 GB DDR3\n"
                    "Hard Drives:\n\n"
                    "    SSD SATA 477 GB\n"
-                   "        OS: Windows 11 Pro\n\n"
-                   "    HDD 500GB\n"
-                   "        OS: Linux Mint Cinnamon\n");
+                   "        OS: Arch Linux"
+                   "    HDD 500GB\n");
         }
         if (opc_dis == 2)
         {
