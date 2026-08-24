@@ -15,4 +15,4 @@ Mis Proyectos y códigos de prueba y estudio.
 * Python
     * Hello_World.py
 * Golang
-    * Hello_World.py
+    * Hello_World.go
